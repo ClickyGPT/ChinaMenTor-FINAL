@@ -1,0 +1,7 @@
+{
+  "name": "ChinaMenTor - Identity as Leverage",
+  "description": "A high-conversion landing page for entrepreneurial thinkers, featuring structured frameworks to design leverage and an AI-powered Positioning Auditor.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
